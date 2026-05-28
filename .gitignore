@@ -1,0 +1,4 @@
+config.txt
+data/
+// jika ada folder atau file yang tidak ingin di upload ke github bisa gunakan /nama folder atau nama file (contoh: /data untuk folder data atau config.txt untuk file config.txt)
+//jika ingin file dengan ekstensi tertentu bisa gunakan *.ekstensi (contoh: *.txt untuk semua file dengan ekstensi .txt)
